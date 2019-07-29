@@ -1,9 +1,9 @@
 # Terraform
 
-# Description:
+## Description:
+Installs Terraform on current virutal machine/operating system
 
+## To Run:
+  -   Terraform Install   :   ./install.sh
 
-# To Run:
-  -      :   .
-
-# Disclaimer:
+## Disclaimer:
