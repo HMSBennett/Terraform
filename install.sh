@@ -1,5 +1,5 @@
 #!/bin/sh
-Version="0.12.5"
+Version="0.12.9"
 
 sudo apt update -y
 
